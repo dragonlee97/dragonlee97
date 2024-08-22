@@ -18,7 +18,7 @@
 ## Data Science Projects
 ### [LinkedIN profile classification engine](/pdf/linkedin_project.pdf)
 - Stacks: Python, Docker, REST API, Airflow, AWS, Postgres
-<img src="images/OOP.png?raw=true" width="400" height="400">
+<img src="images/CF.png?raw=true" width="400" height="300">
 <img src="images/airflow.png" width="400" height="200">
 
 ### [App icon causal analysis](https://github.com/dragonlee97/App-icon)
@@ -28,12 +28,12 @@
 
 ### [Rebranding for Bokan Restaurant](https://github.com/dragonlee97/Capgemini_DataCamp2020_Group3)
 - Algos & Tech: LDA, Word2vec,TF-IDF
-<img src="images/worldcloud.png" width="400" height="250">
+<img src="images/worldcloud.png" width="450" height="250">
 
 -------
 ## BI dashboards
 ### [My PowerBI Gallery](https://app.powerbi.com/view?r=eyJrIjoiZjhhNmUwYjctZGFlMi00ZGM4LWFlODItNzhhNDBiYTdlYmM1IiwidCI6ImViNWZjMGY0LTIxNjEtNDBkOC04NDkyLTUxNTk0MjQ0OTc5MyIsImMiOjEwfQ%3D%3D)
-<img src="images/powerbi.png?raw=true" width="400" height="300">
+<img src="images/powerbi.png?raw=true" width="500" height="300">
 <!--
 **dragonlee97/dragonlee97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
