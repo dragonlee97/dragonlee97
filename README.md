@@ -15,7 +15,11 @@
 - Data modelling exercise of both OLTP and OLAP 
 <img src="images/modelling.png?raw=true" width="300" height="300">
 
-## Data Science Projects
+### [REST API](https://github.com/dragonlee97/citibike_api)
+- FastAPI application designed to query aggregated data from the BigQuery Citibike dataset
+<img src="images/api.png?raw=true" width="300" height="300">
+
+## Data Science
 ### [LinkedIN profile classification engine](/pdf/linkedin_project.pdf)
 - Stacks: Python, Docker, REST API, Airflow, AWS, Postgres
 <img src="images/CF.png?raw=true" width="400" height="300">
