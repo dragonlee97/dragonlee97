@@ -1,13 +1,17 @@
 # Delong LI
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/delongli/) [![Medium Badge](https://img.shields.io/badge/-@delonglee97-03a57a?style=flat&logo=Medium&link=https://medium.com/@delonglee97/)](https://medium.com/@delonglee97/)
 3+ years working experience as a Data Engineer / Data Scientist. Proficient in Python, SQL
-
+## 💡Fun facts about me
+- 🌎 Recognise 150+ national flags and their capitals
+- 🎸 Play guitar, piano and drumset and record one-man band videos 
 - 📚 Language Enthusiast
 - 🎾 Tennis Umpire
 
--------
+<br>
+   
 ## Data Engineering
 ### [Airflow ELT example DAG](https://github.com/dragonlee97/ELT-Pipeline)
-- Stacks: Python, SQL, Airflow, AWS Redshift & S3, github actions, jinja
+- Stacks: Python, SQL, Airflow, AWS Redshift & S3, GitHub Actions, Jinja
 - I summarize and keep updating data engineering good practices in this example dag
 <img src="images/elt.png?raw=true" width="400" height="200">
 
@@ -19,22 +23,23 @@
 - FastAPI application designed to query aggregated data from the BigQuery Citibike dataset
 <img src="images/api.png?raw=true" width="300" height="300">
 
+<br>
+
 ## Data Science
-### [LinkedIN profile classification engine](/pdf/linkedin_project.pdf)
+### [LinkedIn profile classification engine](/pdf/linkedin_project.pdf)
 - Stacks: Python, Docker, REST API, Airflow, AWS, Postgres
 <img src="images/CF.png?raw=true" width="400" height="300">
-<img src="images/airflow.png" width="400" height="200">
 
 ### [App icon causal analysis](https://github.com/dragonlee97/App-icon)
 - Algos & Techniques: OCR, Mask R-CNN, Propensity Score Matching
-- [View Paper](/pdf/Delong_LI_Research_Paper.pdf) 
 <img src="images/roadmap.png?raw=true" width="300" height="400">
 
 ### [Rebranding for Bokan Restaurant](https://github.com/dragonlee97/Capgemini_DataCamp2020_Group3)
 - Algos & Tech: LDA, Word2vec,TF-IDF
 <img src="images/worldcloud.png" width="450" height="250">
 
--------
+<br>
+
 ## BI dashboards
 ### [My PowerBI Gallery](https://app.powerbi.com/view?r=eyJrIjoiZjhhNmUwYjctZGFlMi00ZGM4LWFlODItNzhhNDBiYTdlYmM1IiwidCI6ImViNWZjMGY0LTIxNjEtNDBkOC04NDkyLTUxNTk0MjQ0OTc5MyIsImMiOjEwfQ%3D%3D)
 <img src="images/powerbi.png?raw=true" width="500" height="300">
