@@ -1,5 +1,6 @@
 # Delong LI
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/delongli/) [![Medium Badge](https://img.shields.io/badge/-@delonglee97-03a57a?style=flat&logo=Medium&link=https://medium.com/@delonglee97/)](https://medium.com/@delonglee97/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/delongli/) [![Medium Badge](https://img.shields.io/badge/-@delonglee97-03a57a?style=flat&logo=Medium&link=https://medium.com/@delonglee97/)](https://medium.com/@delonglee97/) [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/leedelong99/)
+
 3+ years working experience as a Data Engineer / Data Scientist. Proficient in Python, SQL
 ## 💡Fun facts about me
 - 🌎 Recognise 150+ national flags and their capitals
