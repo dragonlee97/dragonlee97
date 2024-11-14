@@ -23,7 +23,7 @@
 
 ### [REST API](https://github.com/dragonlee97/citibike_api)
 - FastAPI application designed to query aggregated data from the BigQuery Citibike dataset
-<img src="images/api.png?raw=true" width="300" height="300">
+<img src="images/interface.png?raw=true" width="400" height="250">
 
 <br>
 
